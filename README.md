@@ -1,1 +1,1 @@
-Thie is the repository for the first alpha-blog app of the complete Ruby on Rails Developer Course.
+This is the repository for the first alpha-blog app of the complete Ruby on Rails Developer Course.
